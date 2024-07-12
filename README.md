@@ -1,5 +1,3 @@
-Certainly! Here are the user routes for your Flask application that manages the library management system. These routes handle CRUD operations (Create, Read, Update, Delete) for the `User` model in your database.
-
 ### User Routes
 
 1. **Add a New User**
